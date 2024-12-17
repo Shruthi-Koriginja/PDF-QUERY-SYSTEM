@@ -1,0 +1,5 @@
+numpy
+pandas
+langchain
+pdfplumber
+faiss
