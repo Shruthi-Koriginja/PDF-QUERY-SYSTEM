@@ -2,4 +2,5 @@ numpy
 pandas
 langchain
 pdfplumber
-faiss
+faiss-cpu
+OpenAI
